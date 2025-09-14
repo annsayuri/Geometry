@@ -1,4 +1,4 @@
-# Geometry
+
 # 🎨✨ Geometric Shape Calculator Project ✨🎨
 
 This project is dedicated to building an **interactive system** for calculating geometric properties of various shapes!  
@@ -32,7 +32,7 @@ Our goal: make learning and computing geometry **fun, simple, and accurate** for
 - Hirusha 🚀
 - Sithum 🧠
 - Hirusha 🔬
-- sayuri 💡
+- Sayuri 💡
 - Sandali 💫
 - Imanya 🎈
 
